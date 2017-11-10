@@ -10,4 +10,4 @@ datos1d:Ondas.x
 	./Ondas.x
 
 Ondas:Ondas.c
-	gcc -o Ondas.x Ondas.c
+	gcc -o Ondas.x Ondas.c -lm
